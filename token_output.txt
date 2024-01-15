@@ -1,0 +1,7 @@
+Token       Type             Line   Column   Block     
+======================================================================
+<?php       START_PHP        1      1        0         
+echo        KEYWORD          3      1        0         
+            WHITESPACE       3      5        0         
+""HELLO!""  STRING           3      6        0         
+?>          END_PHP          5      1        0         
